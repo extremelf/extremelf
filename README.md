@@ -1,6 +1,7 @@
 ### Hi there, I use Arch btw 👋
 <img src="https://github-readme-stats.vercel.app/api?username=extremelf&show_icons=true&theme=tokyonight&show_icons=true&title_color=04d17c&text_color=05ff97&bg_color=0a192f" width="100%"/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=extremelf&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=extremelf&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **extremelf/extremelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
