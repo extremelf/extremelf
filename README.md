@@ -1,6 +1,5 @@
 ### Hi there, I use Arch btw 👋
-![<Title for your card>](https://github-readme-stats.vercel.app/api?username=extremelf&show_icons=true&theme=radical)
-
+<img src="https://github-readme-stats.vercel.app/api?username=extremelf&show_icons=true&theme=tokyonight&show_icons=true&title_color=04d17c&text_color=05ff97&bg_color=0a192f" width="100%"/>
 <!--
 **extremelf/extremelf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
