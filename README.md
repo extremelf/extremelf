@@ -1,6 +1,6 @@
 ### Hi there, I use Arch btw 👋
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=extremelf&show_icons=true&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=extremelf&show_icons=true&theme=onedark&hide_border=true"/>
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extremelf&layout=compact&theme=onedark&hide_border=true">
